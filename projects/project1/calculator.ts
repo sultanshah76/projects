@@ -1,5 +1,5 @@
 import inquirer from "inquirer";
-import {addition,subtraction,division,multiplication} from "./functions.js";
+import {addition,subtraction,division,multiplication} from "./function.js"
 import chalk from "chalk";
 import showbanner from "node-banner";
 import gradient from "gradient-string";
