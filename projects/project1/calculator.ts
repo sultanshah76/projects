@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import {addition,subtraction,division,multiplication} from "./function.js"
 import chalk from "chalk";

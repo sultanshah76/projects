@@ -1,9 +1,10 @@
 {
-  "name": "projects",
+  "name": "syedmsultan",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "calculator.js",
   "type": "module",
+  "bin": "./calculator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,6 +20,7 @@
     "chalk": "^5.3.0",
     "gradient-string": "^2.0.2",
     "inquirer": "^9.2.11",
-    "node-banner": "^1.4.0"
+    "node-banner": "^1.4.0",
+    "syedmsultan": "^1.0.0"
   }
 }
